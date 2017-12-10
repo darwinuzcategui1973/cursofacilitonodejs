@@ -1,0 +1,8 @@
+git remote add origin link_github // conectar con github git remote -v // ver nuestra conexion
+git remote -v //ver proyecto sicronizados remotos loca
+
+git remote remove origin // eliminar repositorio remoto
+git push origin master // enviar cambios a github
+Issues : Son una forma de continuar, mejorar o solucionar un error en nuestros repositorios (proyectos)
+Milestones : Son grupos de issues que aplican para un proyecto, característica o periodo de tiempo.
+Labels: son una manera de organizar distintos tipos de problemas.
